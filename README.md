@@ -30,12 +30,6 @@ An interactive Excel dashboard project analyzing grocery sales data for a delive
 
 ---
 
-## 📸 Dashboard Preview
-
-![BlinkIT Grocery Dashboard](39ef5fee-1c47-47e7-880e-4c72e9bc59a4.png)
-
----
-
 ## 💡 Key Insights
 
 - Highest revenue from **Fruits & Vegetables**, followed by **Snack Foods**
@@ -50,7 +44,7 @@ An interactive Excel dashboard project analyzing grocery sales data for a delive
 - Microsoft Excel
   - PivotTables
   - Data Cleaning
-  - Charts (Bar, Pie, Donut, Line)
+  - Charts (Bar, Donut, Line)
   - Slicers & Timelines
 
 ---
