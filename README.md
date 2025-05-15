@@ -65,11 +65,9 @@ An interactive Excel dashboard project analyzing grocery sales data for a delive
 
 ---
 
+## 📸 Dashboard Preview
 
-**Srishti Agrawal**  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/srishti-agrawal-sa2696/)  
-🐙 GitHub: [srishtiagrawal02](https://github.com/srishtiagrawal02)
+<img width="830" alt="{B6F5E519-86C6-4173-A5C9-292DDA6520FA}" src="https://github.com/user-attachments/assets/3779d807-c6d0-4674-b26a-c31905571438" />
 
 ---
 
